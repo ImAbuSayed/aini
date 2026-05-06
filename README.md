@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 24, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/aini/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Obtain a Music License for Aini](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
