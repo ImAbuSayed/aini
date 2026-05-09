@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Aini
+
+This log tracks the cryptographic history and versioning for the song **Aini** (aini).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T11:58:22.983080 | `v1` | `99d502cf2c109bf9b8fa39997964fa5df91657c84876759c901d493810e5659f` | `99d502cf2c109bf9b8fa39997964fa5df91657c84876759c901d493810e5659f` | `2026-05-09_aini-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
